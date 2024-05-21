@@ -1,3 +1,13 @@
 gamemode: sandbox/story
 ^
-meaning 
+meaning the game would start off as a sandbox, the player being able
+to do what they want before starting the storyline.
+
+
+
+
+
+map: procedural land + custom interiors/exteriors
+
+
+test
