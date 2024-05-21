@@ -1,0 +1,3 @@
+gamemode: sandbox/story
+^
+meaning 
