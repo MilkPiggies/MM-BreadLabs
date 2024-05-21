@@ -1,3 +1,4 @@
+
 gamemode: sandbox/story
 ^
 meaning the game would start off as a sandbox, the player being able
