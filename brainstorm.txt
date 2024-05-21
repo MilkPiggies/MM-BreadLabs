@@ -8,6 +8,16 @@ to do what they want before starting the storyline.
 
 
 map: procedural land + custom interiors/exteriors
+^
+Maps will slightly be made by hand, otherwise made by a computer.
 
 
-test
+
+
+
+story:
+^
+
+
+
+
