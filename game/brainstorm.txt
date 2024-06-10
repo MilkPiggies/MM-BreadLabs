@@ -1,3 +1,4 @@
+
 gamemode: sandbox/story
 ^
 meaning the game would start off as a sandbox, the player being able
@@ -29,7 +30,7 @@ signals represent that the combine have found this isolated city.
 
 
 
-
+test
 
 
 
